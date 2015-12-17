@@ -8,17 +8,17 @@
 	<challenge id="2"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
 		startingitems="288,149,316,217,248,234" startingtrinkets="70" />
 
-	<!-- Book of Belial, Chocolate Milk, Blood of the Martyr, Polyphemus, Proptosis, Lost Contact, Curved Horn -->
+	<!-- Book of Belial, Chocolate Milk, Blood of the Martyr, Polyphemus, Proptosis, Dead Eye, Curved Horn -->
 	<challenge id="3"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
-		startingitems="34,69,7,169,261,213," startingtrinkets="35" />
+		startingitems="34,69,7,169,261,373" startingtrinkets="35" />
 
 	<!-- Remote Detonator, Dr Fetus, Parasite, Pyromaniac, Sad Bombs, Cricket’s Body, Ring Worm -->
 	<challenge id="4"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
 		startingitems="137,52,104,223,220,224" startingtrinkets="10" />
 
-	<!-- Blood Rights, Isaac’s Heart, Compass, Treasure Map, Wooden Spoon, Belt, Samson’s Lock -->
+	<!-- Blood Rights, Isaac’s Heart, Compass, Treasure Map, Wooden Spoon, Belt, The Tick -->
 	<challenge id="5"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
-		startingitems="186,276,21,54,27,28" startingtrinkets="58" canshoot="false" />
+		startingitems="186,276,21,54,27,28" startingtrinkets="53" canshoot="false" />
 
 	<!-- Mega Blast, Ludovico, Technology, Spoon Bender, Number One, Eve’s Mascara, Wiggle Worm -->
 	<challenge id="6"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
@@ -34,7 +34,7 @@
 
 	<!-- Mom’s Box, Death’s Touch, Odd Mushroom, Tiny Planet, Lump of Coal, The Wiz, Cancer -->
 	<challenge id="9"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
-		startingitems="439,237,120,233,132,358,81" startingtrinkets="39" />
+		startingitems="439,237,120,233,132,358" startingtrinkets="39" />
 
 	<!-- Box of Friends, Incubus, BFFS, 20/20, Sacred Heart, Cricket’s Head, Whip Worm -->
 	<challenge id="10" playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
@@ -47,7 +47,9 @@
 	<!-- Unicorn Stump, 9 Volt, Car Battery, Midas’ Touch, Roid Rage, Magic Mushroom, Goat Hoof -->
 	<challenge id="12" playertype="10" difficulty="1" endstage="12" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
 		startingitems="298,116,356,202,14,12" startingtrinkets="37" canshoot="false" />
-	
+
+	<!-- Available: Succubus, Tech .5, SMB Super Fan, Capricorn, Glass Cannon, Crown of Light, Host Hat, Holy Light, Maw of the Void, Kidney Stone -->
+
 	<!-- Fruit Cake, 3 Dollar Bill, GB Bug, Holy Mantle, Rainbow Worm -->
 	<!-- <challenge id="8"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42" -->
 		<!-- startingitems="418,191,405,313" startingtrinkets="64" /> -->

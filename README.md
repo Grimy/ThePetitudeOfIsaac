@@ -4,7 +4,7 @@ The new challenges are:
 
 * #1: Fetus Harder
 * #2: King of Spiderses
-* #3: Size Matters
+* #3: One Tear Man
 * #4: Armaggedon
 * #5: Is Scarification Painful?
 * #6: Ludovico’s Technology
