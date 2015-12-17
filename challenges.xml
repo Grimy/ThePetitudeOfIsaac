@@ -1,0 +1,74 @@
+<challenges version="1">
+
+	<!-- Epic Fetus, Mom’s Knife, Mutant Spider, Inner Eye, Monstro’s Lung -->
+	<challenge id="1"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+		startingitems="47,168,114,153,2,229" startingtrinkets="3" />
+
+	<!-- Box of Spiders, Ipecac, Cursed Eye, Mom’s Wig, Hive Mind, Infestation 2, Louse -->
+	<challenge id="2"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+		startingitems="288,149,316,217,248,234" startingtrinkets="70" />
+
+	<!-- Book of Belial, Chocolate Milk, Blood of the Martyr, Polyphemus, Proptosis, Lost Contact, Curved Horn -->
+	<challenge id="3"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+		startingitems="34,69,7,169,261,213," startingtrinkets="35" />
+
+	<!-- Remote Detonator, Dr Fetus, Parasite, Pyromaniac, Sad Bombs, Cricket’s Body, Ring Worm -->
+	<challenge id="4"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+		startingitems="137,52,104,223,220,224" startingtrinkets="10" />
+
+	<!-- Blood Rights, Isaac’s Heart, Compass, Treasure Map, Wooden Spoon, Belt, Samson’s Lock -->
+	<challenge id="5"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+		startingitems="186,276,21,54,27,28" startingtrinkets="58" canshoot="false" />
+
+	<!-- Mega Blast, Ludovico, Technology, Spoon Bender, Number One, Eve’s Mascara, Wiggle Worm -->
+	<challenge id="6"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+		startingitems="441,329,68,3,6,310" startingtrinkets="10" />
+
+	<!-- Telepathy for Dummies, Tech X, Continuum, Libra, Soy Milk, My Reflection, Tape Worm -->
+	<challenge id="7"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+		startingitems="192,395,369,304,330,5" startingtrinkets="65" getcurse="1" />
+
+	<!-- Tear Detonator, Godhead, Purity, Blue Cap, Mr. Dolly, Tractor Beam, Pulse Worm -->
+	<challenge id="8"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+		startingitems="383,331,407,342,370,397" startingtrinkets="9" />
+
+	<!-- Mom’s Box, Death’s Touch, Odd Mushroom, Tiny Planet, Lump of Coal, The Wiz, Cancer -->
+	<challenge id="9"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+		startingitems="439,237,120,233,132,358,81" startingtrinkets="39" />
+
+	<!-- Box of Friends, Incubus, BFFS, 20/20, Sacred Heart, Cricket’s Head, Whip Worm -->
+	<challenge id="10" playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+		startingitems="357,360,247,245,182,4" startingtrinkets="27" />
+
+	<!-- Tammy’s Head, Brimstone, Guppy’s Tail, Guppy’s Hairball, Guppy’s Collar, Rubber Cement, Hook Worm -->
+	<challenge id="11" playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+		startingitems="38,118,134,187,212,221" startingtrinkets="26" />
+
+	<!-- Unicorn Stump, 9 Volt, Car Battery, Midas’ Touch, Roid Rage, Magic Mushroom, Goat Hoof -->
+	<challenge id="12" playertype="10" difficulty="1" endstage="12" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+		startingitems="298,116,356,202,14,12" startingtrinkets="37" canshoot="false" />
+	
+	<!-- Fruit Cake, 3 Dollar Bill, GB Bug, Holy Mantle, Rainbow Worm -->
+	<!-- <challenge id="8"  playertype="10" difficulty="1" endstage="12" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42" -->
+		<!-- startingitems="418,191,405,313" startingtrinkets="64" /> -->
+
+	<!-- Unmodified challenges -->
+	<challenge name="BEANS!" id="13" startingitems="209,190,180,111,116" endstage="6" roomfilter="4" canshoot="false" />
+	<challenge name="Its In The Cards" id="14" startingitems="251,85,116,63" startingcard="-1" endstage="6" roomfilter="4" />
+	<challenge name="Slow Roll" id="15" startingitems="169,48,5" endstage="6" roomfilter="4" maxdamage="true" minfirerate="true" minshotspeed="true" />
+	<challenge name="Computer Savy" id="16" startingitems="68,152,3" endstage="6" roomfilter="4" />
+	<challenge name="WAKA WAKA" id="17" startingitems="315,222" endstage="6" roomfilter="4" />
+	<challenge name="The Host" id="18" startingitems="151,211" startingtrinketss="53" endstage="6" roomfilter="4" />
+	<challenge name="The Family Man" id="19" startingitems="175,67,8,268,247" endstage="9" roomfilter="4" canshoot="false" altpath="true" achievements="34,58" />
+	<challenge name="Purist" id="20" endstage="8" roomfilter="4" achievements="4" />
+	<challenge name="XXXXXXXXL" id="21" endstage="8" achievements="4" />
+	<challenge name="SPEED!" id="22" endstage="8" achievements="4" />
+	<challenge name="Blue Bomber" id="23" endstage="10" altpath="false" startingitems="40,106,223,8" roomfilter="4" playertype="4" canshoot="false" achievements="28,34" />
+	<challenge name="PAY TO PLAY" id="24" endstage="10" altpath="true" startingitems="94,109" roomfilter="4" coins="50" achievements="28,21" />
+	<challenge name="Have a heart" id="25" endstage="8" startingitems="62" maxhp="18" redhp="-4" achievements="4" />
+	<challenge name="I RULE!" id="26" endstage="12" roomfilter="4" startingitems="114,243,338,60,238,239" difficulty="1" megasatan="true" achievements="43,155" />
+	<challenge name="BRAINS!" id="27" endstage="11" altpath="true" roomfilter="4" startingitems="273,273,273,314" playertype="4" canshoot="false" achievements="57" />
+	<challenge name="PRIDE DAY!" id="28" endstage="8" roomfilter="4" startingitems="174,191" startingtrinketss="64" achievements="4" />
+	<challenge name="Onan's Streak" id="29" endstage="10" altpath="true" startingitems="69" playertype="3" achievements="4" adddamage="2" />
+	<challenge name="The Guardian" id="30" endstage="8" roomfilter="4" achievements="4" startingitems="281,276,184,400" canshoot="false"/>
+</challenges>
