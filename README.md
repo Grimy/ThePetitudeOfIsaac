@@ -1,8 +1,8 @@
-This mod replaces 12 of the default challenges with new ones, where you have to fight Mega Satan with The Lost using powerful synergies.
+This mod replaces 14 of the default challenges with new ones, where you have to fight Hush or Mega Satan with The Lost using powerful synergies.
 
 The new challenges are:
 
-* #1: Fetus Harder
+* #1: Fan of Knives
 * #2: King of Spiderses
 * #3: One Tear Man
 * #4: Armaggedon
@@ -10,12 +10,14 @@ The new challenges are:
 * #6: Ludovico’s Technology
 * #7: Rings of Light
 * #8: Reset Until Blue!
-* #9: Too Many Scythes
+* #9: Tiny Huge Planet
 * #10: Best Friends
 * #11: Press Space to Win!
-* #12: Gold Runner
+* #12: Epic Pony Time
+* #13: Gold Runner
+* #14: Glass Cannon
 
-Note that only the default names appear in the game!
+Note that only the default names appear in the game. Also note that challenges ending at Hush show Mom’s icon instead.
 
 How to install
 --------------
