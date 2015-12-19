@@ -17,28 +17,28 @@
 		startingitems="137,52,104,223,220,224" startingtrinkets="11" />
 
 	<!-- Blood Rights, Isaac’s Heart, Compass, Treasure Map, Wooden Spoon, Belt, The Tick -->
-	<challenge id="5"  playertype="10" difficulty="1" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
+	<challenge id="5"  playertype="10" difficulty="1" endstage="9" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22"
 		startingitems="186,276,21,54,27,28" startingtrinkets="53" canshoot="false" />
 
 	<!-- Mega Blast, Ludovico, Technology, Spoon Bender, Number One, Eve’s Mascara, Wiggle Worm -->
-	<challenge id="6"  playertype="10" difficulty="1" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
-		startingitems="441,329,68,3,6,310" startingtrinkets="10" />
+	<challenge id="6"  playertype="10" difficulty="1" endstage="9" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22"
+		startingitems="441,329,68,3,6,310" startingtrinkets="10" startingcard="4" />
 
 	<!-- Telepathy for Dummies, Tech X, Continuum, Libra, Soy Milk, My Reflection, Tape Worm -->
-	<challenge id="7"  playertype="10" difficulty="1" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
-		startingitems="192,395,369,304,330,5" startingtrinkets="65" getcurse="1" />
+	<challenge id="7"  playertype="10" difficulty="1" endstage="9" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22"
+		startingitems="192,395,369,304,330,5,81" startingtrinkets="65" getcurse="1" />
 
-	<!-- Tear Detonator, Godhead, Purity, Blue Cap, Sad Onion, Tractor Beam, Pulse Worm -->
+	<!-- Tear Detonator, Godhead, Purity, Blue Cap, Sad Onion, Tractor Beam, Lazy Worm -->
 	<challenge id="8"  playertype="10" difficulty="1" endstage="9" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22"
-		startingitems="383,331,407,342,1,397" startingtrinkets="66" startingcard="16" />
+		startingitems="383,331,407,342,1,397" startingtrinkets="66" startingcard="4" />
 
 	<!-- Mom’s Box, The Pact, Torn Photo, Tiny Planet, Lump of Coal, The Wiz, Cancer -->
 	<challenge id="9"  playertype="10" difficulty="1" endstage="9" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22"
-		startingitems="439,80,341,233,132,358" startingtrinkets="39" startingcard="16" />
+		startingitems="439,80,341,233,132,358" startingtrinkets="39" startingcard="4" />
 
-	<!-- Box of Friends, Incubus, Succubus, BFFS, Death’s Touch, 20/20 -->
+	<!-- Box of Friends, Incubus, Succubus, BFFS, Death’s Touch, 20/20, Child Leash -->
 	<challenge id="10" playertype="10" difficulty="1" endstage="9" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22"
-		startingitems="357,360,417,247,237,245" startingtrinkets="9" startingpill="20" />
+		startingitems="357,360,417,247,237,245" startingtrinkets="89" startingpill="20" />
 
 	<!-- Tammy’s Head, Brimstone, Guppy’s Tail, Guppy’s Hairball, Guppy’s Collar, Rubber Cement, Hook Worm -->
 	<challenge id="11" playertype="10" difficulty="1" megasatan="true" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22" startingcard="42"
@@ -50,7 +50,7 @@
 
 	<!-- Unicorn Stump, 9 Volt, Car Battery, Midas’ Touch, Roid Rage, Speed Ball, Goat Hoof -->
 	<challenge id="13" playertype="10" difficulty="1" endstage="9" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22"
-		startingitems="298,116,356,202,14,143" startingtrinkets="37" canshoot="false" />
+		startingitems="298,116,356,202,14,143" startingtrinkets="37" startingcard="35" canshoot="false" />
 
 	<!-- Glass Cannon, Sacred Heart, Crown of Light, Magic Mushroom, Odd Mushroom, Halo, Whip Worm -->
 	<challenge id="14" playertype="10" difficulty="1" endstage="9" roomfilter="2,3,4,7,8,9,10,11,12,13,16,19,20,21,22"
